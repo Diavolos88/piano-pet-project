@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/piano-pet-project/static/css/main.ef567a42.chunk.css",
-    "main.js": "/piano-pet-project/static/js/main.160b3317.chunk.js",
-    "main.js.map": "/piano-pet-project/static/js/main.160b3317.chunk.js.map",
+    "main.js": "/piano-pet-project/static/js/main.9f9d7969.chunk.js",
+    "main.js.map": "/piano-pet-project/static/js/main.9f9d7969.chunk.js.map",
     "runtime-main.js": "/piano-pet-project/static/js/runtime-main.fdb26538.js",
     "runtime-main.js.map": "/piano-pet-project/static/js/runtime-main.fdb26538.js.map",
     "static/js/2.9284278f.chunk.js": "/piano-pet-project/static/js/2.9284278f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fdb26538.js",
     "static/js/2.9284278f.chunk.js",
     "static/css/main.ef567a42.chunk.css",
-    "static/js/main.160b3317.chunk.js"
+    "static/js/main.9f9d7969.chunk.js"
   ]
 }
