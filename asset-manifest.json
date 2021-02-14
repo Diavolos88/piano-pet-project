@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/piano-pet-project/static/css/main.ef567a42.chunk.css",
-    "main.js": "/piano-pet-project/static/js/main.f248478b.chunk.js",
-    "main.js.map": "/piano-pet-project/static/js/main.f248478b.chunk.js.map",
+    "main.css": "/piano-pet-project/static/css/main.ca5a4a93.chunk.css",
+    "main.js": "/piano-pet-project/static/js/main.0ca332e0.chunk.js",
+    "main.js.map": "/piano-pet-project/static/js/main.0ca332e0.chunk.js.map",
     "runtime-main.js": "/piano-pet-project/static/js/runtime-main.fdb26538.js",
     "runtime-main.js.map": "/piano-pet-project/static/js/runtime-main.fdb26538.js.map",
     "static/js/2.9284278f.chunk.js": "/piano-pet-project/static/js/2.9284278f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.876b731b.chunk.js": "/piano-pet-project/static/js/3.876b731b.chunk.js",
     "static/js/3.876b731b.chunk.js.map": "/piano-pet-project/static/js/3.876b731b.chunk.js.map",
     "index.html": "/piano-pet-project/index.html",
-    "static/css/main.ef567a42.chunk.css.map": "/piano-pet-project/static/css/main.ef567a42.chunk.css.map",
+    "static/css/main.ca5a4a93.chunk.css.map": "/piano-pet-project/static/css/main.ca5a4a93.chunk.css.map",
     "static/js/2.9284278f.chunk.js.LICENSE.txt": "/piano-pet-project/static/js/2.9284278f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fdb26538.js",
     "static/js/2.9284278f.chunk.js",
-    "static/css/main.ef567a42.chunk.css",
-    "static/js/main.f248478b.chunk.js"
+    "static/css/main.ca5a4a93.chunk.css",
+    "static/js/main.0ca332e0.chunk.js"
   ]
 }
